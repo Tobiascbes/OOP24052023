@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTestInheritance", "OOPTestInheritance\OOPTestInheritance.csproj", "{49823B9D-5BFC-4F2F-A6DD-2EF816356AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49823B9D-5BFC-4F2F-A6DD-2EF816356AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49823B9D-5BFC-4F2F-A6DD-2EF816356AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49823B9D-5BFC-4F2F-A6DD-2EF816356AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49823B9D-5BFC-4F2F-A6DD-2EF816356AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09DD1806-0AF1-4CB8-A345-97F1E964E239}
+	EndGlobalSection
+EndGlobal
